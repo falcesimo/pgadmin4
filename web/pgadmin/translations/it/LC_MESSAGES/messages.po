@@ -47,7 +47,7 @@ msgstr "Server"
 
 #: pgadmin/about/__init__.py:71
 msgid "Desktop"
-msgstr "Scrivania"
+msgstr "Desktop"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:38
 #: pgadmin/browser/server_groups/servers/databases/extensions/static/js/extension.ui.js:121
@@ -66,7 +66,7 @@ msgstr "Versione"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:46
 msgid "Application Mode"
-msgstr "Modalità applicazione"
+msgstr "Modalità Applicazione"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:54
 msgid "Commit:"
@@ -74,11 +74,11 @@ msgstr ""
 
 #: pgadmin/about/static/js/AboutComponent.jsx:62
 msgid "Current User"
-msgstr "Utente corrente"
+msgstr "Utente Corrente"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:71
 msgid "Electron Version"
-msgstr ""
+msgstr "Versione Electron"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:80 pgadmin/browser/__init__.py:85
 #: pgadmin/preferences/static/js/components/PreferencesComponent.jsx:326
@@ -87,19 +87,19 @@ msgstr "Esplora"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:89
 msgid "Operating System"
-msgstr "Sistema operativo"
+msgstr "Sistema Operativo"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:99
 msgid "pgAdmin Database File"
-msgstr "file di database pgAdmin"
+msgstr "File di Database pgAdmin"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:109
 msgid "Log File"
-msgstr "File di registro"
+msgstr "File di Log"
 
 #: pgadmin/about/static/js/AboutComponent.jsx:119
 msgid "pgAdmin Server Configuration"
-msgstr ""
+msgstr "Configurazione Server pgAdmin"
 
 #: pgadmin/about/static/js/about.js:43
 #, python-format
@@ -112,7 +112,7 @@ msgstr "Il tuo account è bloccato. Si prega di contattare l'amministratore."
 
 #: pgadmin/authenticate/__init__.py:150
 msgid "{0} more attempts remaining."
-msgstr "altri {0}  tentativi rimanenti."
+msgstr "altri {0} tentativi rimanenti."
 
 #: pgadmin/authenticate/__init__.py:154
 msgid "{0} more attempt remaining."
@@ -124,7 +124,7 @@ msgstr "Accesso fallito"
 
 #: pgadmin/authenticate/internal.py:28
 msgid "Email/Username not provided"
-msgstr "E-mail / nome utente non fornito"
+msgstr "E-mail/Nomeutente non fornito"
 
 #: pgadmin/authenticate/internal.py:29
 msgid "Password not provided"
